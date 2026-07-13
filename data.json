@@ -1,0 +1,587 @@
+{
+  "generatedAt": "2026-07-13T17:10:52.874Z",
+  "season": "Hiver 25-26",
+  "events": [
+    {
+      "id": 53,
+      "title": "Groupe 1",
+      "stage": "Étape 1",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": 52000,
+      "results": [
+        {
+          "rank": 1,
+          "number": 8,
+          "rider": "ROMANE FERRE",
+          "horse": "ILANA",
+          "time": 27262,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 2,
+          "rider": "ALIZÉE BURON",
+          "horse": "QUELLE",
+          "time": 41008,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 3,
+          "number": 3,
+          "rider": "KAËLIE ERARD",
+          "horse": "G'LACLASSE",
+          "time": 56697,
+          "penalty": 2,
+          "result": 2,
+          "status": "Classé"
+        },
+        {
+          "rank": 4,
+          "number": 4,
+          "rider": "KAITLEEN KOUADOU",
+          "horse": "KAP",
+          "time": 26379,
+          "penalty": 8,
+          "result": 8,
+          "status": "Classé"
+        },
+        {
+          "rank": 5,
+          "number": 5,
+          "rider": "EVANGELINE MOREL",
+          "horse": "ILANA",
+          "time": 51163,
+          "penalty": 8,
+          "result": 8,
+          "status": "Classé"
+        },
+        {
+          "rank": 6,
+          "number": 1,
+          "rider": "CHLOÉ HEMARD",
+          "horse": "ILANA",
+          "time": 45168,
+          "penalty": 12,
+          "result": 12,
+          "status": "Classé"
+        },
+        {
+          "rank": 7,
+          "number": 6,
+          "rider": "ANNA GRONOT",
+          "horse": "QUELLE",
+          "time": 10285,
+          "penalty": null,
+          "result": null,
+          "status": "Éliminé"
+        },
+        {
+          "rank": 7,
+          "number": 7,
+          "rider": "ELOISE GIRARD",
+          "horse": "G'LACLASSE",
+          "time": null,
+          "penalty": null,
+          "result": null,
+          "status": "Non partant"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Groupe 4",
+      "stage": "Étape 1",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": null,
+      "results": [
+        {
+          "rank": 1,
+          "number": 5,
+          "rider": "THALINA LACOUR-VORIERES",
+          "horse": "QUELLE",
+          "time": 9494,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 4,
+          "rider": "SOPHIE LAPRUN",
+          "horse": "EXTRA",
+          "time": 11028,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 3,
+          "number": 1,
+          "rider": "YLIANA ENGEL-MILLS",
+          "horse": "QUELLE",
+          "time": 14804,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 4,
+          "number": 2,
+          "rider": "LOUISE COUVREUX",
+          "horse": "VAILLANT",
+          "time": 16711,
+          "penalty": 1,
+          "result": 1,
+          "status": "Classé"
+        },
+        {
+          "rank": 5,
+          "number": 3,
+          "rider": "MANON HUGER",
+          "horse": "UKITA",
+          "time": null,
+          "penalty": null,
+          "result": null,
+          "status": "Non partant"
+        },
+        {
+          "rank": 5,
+          "number": 6,
+          "rider": "ALICE COUVREUX",
+          "horse": "UKITA",
+          "time": 3925,
+          "penalty": null,
+          "result": null,
+          "status": "Éliminé"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Groupe Baby",
+      "stage": "Étape 1",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": 10000,
+      "results": [
+        {
+          "rank": 1,
+          "number": 1,
+          "rider": "VICTOIRE HAMELIN DONOT",
+          "horse": "USHUAÏA",
+          "time": 28450,
+          "penalty": 2,
+          "result": 2,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 2,
+          "rider": "MYLANA BUSHING",
+          "horse": "VOLT",
+          "time": 14554,
+          "penalty": 5,
+          "result": 5,
+          "status": "Classé"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Groupe 4",
+      "stage": "Étape 2",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": 30000,
+      "results": [
+        {
+          "rank": 1,
+          "number": 3,
+          "rider": "MANON HUGER",
+          "horse": "UKITA",
+          "time": 7382,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 1,
+          "rider": "YLIANA ENGEL-MILLS",
+          "horse": "QUELLE",
+          "time": 14823,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 3,
+          "number": 5,
+          "rider": "THALINA LACOUR-VORIERES",
+          "horse": "QUELLE",
+          "time": 27459,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 4,
+          "number": 6,
+          "rider": "ALICE COUVREUX",
+          "horse": "UKITA",
+          "time": 39731,
+          "penalty": 1,
+          "result": 1,
+          "status": "Classé"
+        },
+        {
+          "rank": 5,
+          "number": 7,
+          "rider": "JUSTINE ENVAIN",
+          "horse": "INDRA",
+          "time": 14657,
+          "penalty": 2,
+          "result": 2,
+          "status": "Classé"
+        },
+        {
+          "rank": 6,
+          "number": 4,
+          "rider": "SOPHIE LAPRUN",
+          "horse": "EXTRA",
+          "time": 16917,
+          "penalty": 2,
+          "result": 2,
+          "status": "Classé"
+        },
+        {
+          "rank": 7,
+          "number": 2,
+          "rider": "LOUISE COUVREUX",
+          "horse": "VAILLANT",
+          "time": 6901,
+          "penalty": null,
+          "result": null,
+          "status": "Abandon"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Groupe 4",
+      "stage": "Étape Finale",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": null,
+      "results": [
+        {
+          "rank": 1,
+          "number": 1,
+          "rider": "YLIANA ENGEL-MILLS",
+          "horse": "QUELLE",
+          "time": 5775,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 6,
+          "rider": "JUSTINE ENVAIN",
+          "horse": "INDRA",
+          "time": 12172,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 3,
+          "number": 4,
+          "rider": "THALINA LACOUR-VORIERES",
+          "horse": "QUELLE",
+          "time": 20497,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 4,
+          "number": 3,
+          "rider": "SOPHIE LAPRUN",
+          "horse": "EXTRA",
+          "time": 16052,
+          "penalty": 1,
+          "result": 1,
+          "status": "Classé"
+        },
+        {
+          "rank": 5,
+          "number": 2,
+          "rider": "LOUISE COUVREUX",
+          "horse": "VAILLANT",
+          "time": 9953,
+          "penalty": null,
+          "result": null,
+          "status": "Éliminé"
+        },
+        {
+          "rank": 5,
+          "number": 5,
+          "rider": "ALICE COUVREUX",
+          "horse": "UKITA",
+          "time": 5041,
+          "penalty": null,
+          "result": null,
+          "status": "Abandon"
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "title": "Groupe 1",
+      "definitive": false,
+      "stages": [
+        {
+          "title": "Étape 1",
+          "date": "2025-11-30",
+          "isFinal": false
+        },
+        {
+          "title": "Étape 2",
+          "date": "2026-02-01",
+          "isFinal": false
+        },
+        {
+          "title": "Étape Finale",
+          "date": "2026-03-08",
+          "isFinal": true
+        }
+      ],
+      "rows": [
+        {
+          "rider": "ROMANE FERRE",
+          "stages": [
+            21,
+            "NP",
+            "NP"
+          ],
+          "total": 21,
+          "rank": 1
+        },
+        {
+          "rider": "ALIZÉE BURON",
+          "stages": [
+            19,
+            "NP",
+            "NP"
+          ],
+          "total": 19,
+          "rank": 2
+        },
+        {
+          "rider": "KAËLIE ERARD",
+          "stages": [
+            18,
+            "NP",
+            "NP"
+          ],
+          "total": 18,
+          "rank": 3
+        },
+        {
+          "rider": "KAITLEEN KOUADOU",
+          "stages": [
+            17,
+            "NP",
+            "NP"
+          ],
+          "total": 17,
+          "rank": 4
+        },
+        {
+          "rider": "EVANGELINE MOREL",
+          "stages": [
+            16,
+            "NP",
+            "NP"
+          ],
+          "total": 16,
+          "rank": 5
+        },
+        {
+          "rider": "CHLOÉ HEMARD",
+          "stages": [
+            15,
+            "NP",
+            "NP"
+          ],
+          "total": 15,
+          "rank": 6
+        },
+        {
+          "rider": "ANNA GRONOT",
+          "stages": [
+            14,
+            "NP",
+            "NP"
+          ],
+          "total": 14,
+          "rank": 7
+        },
+        {
+          "rider": "ELOISE GIRARD",
+          "stages": [
+            "NP",
+            "NP",
+            "NP"
+          ],
+          "total": 0,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "title": "Groupe Baby",
+      "definitive": true,
+      "stages": [
+        {
+          "title": "Étape 1",
+          "date": "2025-11-30",
+          "isFinal": false
+        },
+        {
+          "title": "Étape 2",
+          "date": "2026-02-01",
+          "isFinal": false
+        },
+        {
+          "title": "Étape Finale",
+          "date": "2026-03-08",
+          "isFinal": true
+        }
+      ],
+      "rows": [
+        {
+          "rider": "VICTOIRE HAMELIN DONOT",
+          "stages": [
+            21,
+            19,
+            21.5
+          ],
+          "total": 61.5,
+          "rank": 1
+        },
+        {
+          "rider": "MYLANA BUSHING",
+          "stages": [
+            19,
+            21,
+            19.5
+          ],
+          "total": 59.5,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "title": "Groupe 4",
+      "definitive": true,
+      "stages": [
+        {
+          "title": "Étape 1",
+          "date": "2025-11-30",
+          "isFinal": false
+        },
+        {
+          "title": "Étape 2",
+          "date": "2026-02-01",
+          "isFinal": false
+        },
+        {
+          "title": "Étape Finale",
+          "date": "2026-03-08",
+          "isFinal": true
+        }
+      ],
+      "rows": [
+        {
+          "rider": "YLIANA ENGEL-MILLS",
+          "stages": [
+            18,
+            19,
+            21.5
+          ],
+          "total": 58.5,
+          "rank": 1
+        },
+        {
+          "rider": "THALINA LACOUR-VORIERES",
+          "stages": [
+            21,
+            18,
+            18.5
+          ],
+          "total": 57.5,
+          "rank": 2
+        },
+        {
+          "rider": "SOPHIE LAPRUN",
+          "stages": [
+            19,
+            15,
+            17.5
+          ],
+          "total": 51.5,
+          "rank": 3
+        },
+        {
+          "rider": "ALICE COUVREUX",
+          "stages": [
+            16,
+            17,
+            16
+          ],
+          "total": 49,
+          "rank": 4
+        },
+        {
+          "rider": "LOUISE COUVREUX",
+          "stages": [
+            17,
+            14,
+            16
+          ],
+          "total": 47,
+          "rank": 5
+        },
+        {
+          "rider": "JUSTINE ENVAIN",
+          "stages": [
+            "NP",
+            16,
+            19.5
+          ],
+          "total": 35.5,
+          "rank": 6
+        },
+        {
+          "rider": "MANON HUGER",
+          "stages": [
+            "NP",
+            21,
+            "NP"
+          ],
+          "total": 21,
+          "rank": 7
+        }
+      ]
+    }
+  ]
+}
