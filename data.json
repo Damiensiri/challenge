@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:10:52.874Z",
+  "generatedAt": "2026-07-13T17:29:53.506Z",
   "season": "Hiver 25-26",
   "events": [
     {
@@ -273,6 +273,66 @@
       ]
     },
     {
+      "id": 90,
+      "title": "Groupe Baby",
+      "stage": "Étape 2",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": null,
+      "results": [
+        {
+          "rank": 1,
+          "number": 2,
+          "rider": "MYLANA BUSHING",
+          "horse": "VOLT",
+          "time": 8696,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 1,
+          "rider": "VICTOIRE HAMELIN DONOT",
+          "horse": "USHUAÏA",
+          "time": 9212,
+          "penalty": 1,
+          "result": 1,
+          "status": "Classé"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Groupe Baby",
+      "stage": "Étape 3",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": null,
+      "results": [
+        {
+          "rank": 1,
+          "number": 1,
+          "rider": "VICTOIRE HAMELIN DONOT",
+          "horse": "USHUAÏA",
+          "time": 6240,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 2,
+          "rider": "MYLANA BUSHING",
+          "horse": "VOLT",
+          "time": 11113,
+          "penalty": 2,
+          "result": 2,
+          "status": "Classé"
+        }
+      ]
+    },
+    {
       "id": 95,
       "title": "Groupe 4",
       "stage": "Étape Finale",
@@ -339,6 +399,36 @@
           "penalty": null,
           "result": null,
           "status": "Abandon"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Groupe Baby",
+      "stage": "Étape finale",
+      "season": "Hiver 25-26",
+      "scoringType": "time_points",
+      "timeAllowed": null,
+      "results": [
+        {
+          "rank": 1,
+          "number": 1,
+          "rider": "VICTOIRE HAMELIN DONOT",
+          "horse": "USHUAÏA",
+          "time": 6945,
+          "penalty": 0,
+          "result": 0,
+          "status": "Classé"
+        },
+        {
+          "rank": 2,
+          "number": 2,
+          "rider": "MYLANA BUSHING",
+          "horse": "VOLT",
+          "time": 10094,
+          "penalty": 1,
+          "result": 1,
+          "status": "Classé"
         }
       ]
     }
