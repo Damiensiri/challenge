@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-10-19T16:05:21.834Z",
-  "season": "",
+  "generatedAt": "2026-10-19T16:07:26.448Z",
+  "season": "Hiver 26-27",
   "events": [],
-  "groups": []
+  "groups": [
+    {
+      "title": "Groupe 1",
+      "definitive": false,
+      "stages": [
+        {
+          "title": "Étape 1",
+          "date": "2026-11-29",
+          "isFinal": false
+        },
+        {
+          "title": "Étape 2",
+          "date": "2027-01-31",
+          "isFinal": false
+        },
+        {
+          "title": "Finale",
+          "date": "2027-03-14",
+          "isFinal": true
+        }
+      ],
+      "rows": []
+    }
+  ]
 }
